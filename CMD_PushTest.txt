@@ -1,1 +1,2 @@
-Pushing from CMD to Git to test Jenkins
+Pushing from CMD to Git to test Jenkins.
+Add ing new text
